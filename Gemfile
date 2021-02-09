@@ -11,7 +11,7 @@ gem 'devise'
 gem 'sqlite3'
 gem 'activemerchant'
 gem 'paperclip', '~> 3.0'
-gem 'rmagick', '2.13.2'
+gem 'rmagick', '4.2.1'
 gem 'aws-sdk', '~> 1.0'
 
 # Gems used only for assets and not required
@@ -45,6 +45,6 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 group :production do
-  gem 'rmagick', '2.13.2'
+  gem 'rmagick', '4.2.1'
   #gem 'pg', '0.15.0'
 end
