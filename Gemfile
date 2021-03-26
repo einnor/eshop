@@ -10,7 +10,7 @@ gem 'devise'
 #gem 'pg', '0.15.0'
 gem 'sqlite3'
 gem 'activemerchant'
-gem 'paperclip', '~> 3.0'
+gem 'paperclip', '~> 4.2'
 gem 'rmagick', '2.13.2'
 gem 'aws-sdk', '~> 1.0'
 
